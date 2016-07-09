@@ -1,0 +1,585 @@
+[25-Feb-2016 18:55:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 33301 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer_theme/include/classes/editors/class-vc-edit-form-fields.php on line 232
+[25-Feb-2016 18:55:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 33301 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer_theme/include/classes/editors/class-vc-edit-form-fields.php on line 232
+[25-Feb-2016 21:35:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 83 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[25-Feb-2016 21:36:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[25-Feb-2016 21:36:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[25-Feb-2016 21:36:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1024 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[25-Feb-2016 21:36:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[26-Feb-2016 13:24:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 196608 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 843
+[26-Feb-2016 13:25:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1024 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[26-Feb-2016 13:25:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1024 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[26-Feb-2016 13:29:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[26-Feb-2016 13:30:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1024 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[26-Feb-2016 13:37:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[26-Feb-2016 13:37:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2350
+[26-Feb-2016 16:49:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 321
+[26-Feb-2016 19:49:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 417
+[26-Feb-2016 19:59:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 417
+[26-Feb-2016 20:59:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 417
+[27-Feb-2016 13:25:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/class-wp-internal-pointers.php on line 31
+[27-Feb-2016 13:25:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/purgeorsplurge/public_html/wp-admin/menu.php on line 250
+[28-Feb-2016 11:55:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 196608 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 843
+[28-Feb-2016 12:32:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 196608 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 843
+[28-Feb-2016 13:29:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 417
+[28-Feb-2016 13:39:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2723
+[28-Feb-2016 14:34:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/essential-grid/includes/base.class.php on line 111
+[28-Feb-2016 15:03:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2723
+[28-Feb-2016 15:12:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2771
+[28-Feb-2016 15:13:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1380 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/media.php on line 1736
+[28-Feb-2016 15:14:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 90 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-wp-user.php on line 491
+[28-Feb-2016 18:27:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2771
+[28-Feb-2016 18:31:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 196608 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 843
+[28-Feb-2016 18:45:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2771
+[28-Feb-2016 18:47:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2771
+[28-Feb-2016 18:47:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2771
+[28-Feb-2016 18:59:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12800 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 762
+[29-Feb-2016 01:13:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2723
+[29-Feb-2016 01:13:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2723
+[29-Feb-2016 17:42:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8960 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 646
+[29-Feb-2016 17:58:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2688
+[29-Feb-2016 18:52:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8193 bytes) in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 4472
+[29-Feb-2016 18:54:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8192 bytes) in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 4466
+[29-Feb-2016 19:00:18 UTC] PHP Warning:  uasort() expects parameter 1 to be array, null given in /home/purgeorsplurge/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 213
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:00:19 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  uasort() expects parameter 1 to be array, null given in /home/purgeorsplurge/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 213
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:00:30 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[29-Feb-2016 19:25:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 33920 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 1409
+[01-Mar-2016 12:08:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/IRI.php on line 211
+[01-Mar-2016 14:22:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 2208
+[01-Mar-2016 14:24:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 11 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 2209
+[01-Mar-2016 14:37:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2908
+[01-Mar-2016 21:28:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2202
+[02-Mar-2016 15:07:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35200 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 1448
+[04-Mar-2016 13:32:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2908
+[04-Mar-2016 13:39:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 2195
+[04-Mar-2016 15:40:08 UTC] PHP Warning:  uasort() expects parameter 1 to be array, null given in /home/purgeorsplurge/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 213
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[04-Mar-2016 15:40:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[04-Mar-2016 15:43:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1920 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/wc-vendors/classes/class-install.php on line 73
+[04-Mar-2016 15:43:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:44:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:44:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:44:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:44:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:44:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:46:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:46:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:47:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:47:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1300
+[04-Mar-2016 15:48:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:49:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:50:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:50:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:50:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/menu.php on line 255
+[04-Mar-2016 15:50:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:50:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:50:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/menu.php on line 255
+[04-Mar-2016 15:50:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:51:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 15:53:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 16:00:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[04-Mar-2016 16:01:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/wc-vendors/classes/class-install.php on line 56
+[04-Mar-2016 19:42:45 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/woocommerce/i18n/states/PH.php on line 75
+[08-Mar-2016 12:48:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/wc-vendors/classes/class-install.php on line 83
+[08-Mar-2016 12:49:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 12:50:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 12:52:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 12:54:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 12:56:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 12:57:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 12:59:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 13:01:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 13:02:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 13:02:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/woocommerce/i18n/states/TH.php on line 76
+[08-Mar-2016 17:23:45 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 11520 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/woocommerce/i18n/states/PH.php on line 79
+[08-Mar-2016 17:24:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:25:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 22400 bytes) in /home/purgeorsplurge/public_html/wp-admin/menu.php on line 260
+[08-Mar-2016 17:25:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:25:58 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:26:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 23040 bytes) in /home/purgeorsplurge/public_html/wp-admin/menu.php on line 271
+[08-Mar-2016 17:26:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:26:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:26:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 22400 bytes) in /home/purgeorsplurge/public_html/wp-admin/menu.php on line 260
+[08-Mar-2016 17:26:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:29:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 17:29:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1708
+[08-Mar-2016 17:29:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/woocommerce/i18n/states/TH.php on line 76
+[08-Mar-2016 17:30:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:30:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:30:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 23040 bytes) in /home/purgeorsplurge/public_html/wp-admin/menu.php on line 271
+[08-Mar-2016 17:30:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6400 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1068
+[08-Mar-2016 17:30:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:30:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 130968 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/prdctfltr/prdctfltr.php on line 525
+[08-Mar-2016 17:30:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:31:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:32:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6400 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1068
+[08-Mar-2016 17:32:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/purgeorsplurge/public_html/wp-admin/menu.php on line 134
+[08-Mar-2016 17:32:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4480 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1039
+[08-Mar-2016 17:32:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:33:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1070
+[08-Mar-2016 17:34:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/woocommerce/i18n/states/BD.php on line 76
+[08-Mar-2016 17:35:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 274
+[08-Mar-2016 17:35:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/deprecated.php on line 974
+[08-Mar-2016 17:35:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 274
+[08-Mar-2016 17:35:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 274
+[08-Mar-2016 17:35:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3072 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/deprecated.php on line 992
+[08-Mar-2016 17:35:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 274
+[08-Mar-2016 17:36:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer_theme/include/classes/settings/class-vc-settings.php on line 359
+[09-Mar-2016 12:28:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 34560 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 1429
+[09-Mar-2016 12:28:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2122
+[09-Mar-2016 12:28:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2122
+[09-Mar-2016 12:29:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2122
+[09-Mar-2016 14:15:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Sanitize.php on line 331
+[09-Mar-2016 14:18:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7050 bytes) in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 434
+[09-Mar-2016 14:20:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:21:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:23:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:27:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:28:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:31:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 29440 bytes) in /home/purgeorsplurge/public_html/wp-includes/SimplePie/Misc.php on line 1272
+[09-Mar-2016 14:31:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:31:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:33:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:35:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1825
+[09-Mar-2016 14:35:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35345 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 1129
+[09-Mar-2016 14:36:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7050 bytes) in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 434
+[09-Mar-2016 14:37:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35345 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 1129
+[09-Mar-2016 14:37:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 2122
+[09-Mar-2016 14:39:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35347 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:40:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35347 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 1129
+[09-Mar-2016 14:40:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35347 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 1129
+[09-Mar-2016 14:43:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7151 bytes) in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 434
+[09-Mar-2016 14:44:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35369 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:45:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35359 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 1129
+[09-Mar-2016 14:46:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7841 bytes) in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 434
+[09-Mar-2016 14:47:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35495 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:47:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8246 bytes) in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 434
+[09-Mar-2016 14:50:00 UTC] PHP Warning:  uasort() expects parameter 1 to be array, null given in /home/purgeorsplurge/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 213
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 14:50:02 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 14:55:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35305 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:56:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36199 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:56:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36199 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:57:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36203 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:57:45 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36203 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:58:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36199 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 14:59:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 12288 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/ajax-actions.php on line 1607
+[09-Mar-2016 15:05:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36209 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 15:05:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36209 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 15:05:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36209 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 15:05:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36203 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 15:05:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 36203 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2788
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  uasort() expects parameter 1 to be array, null given in /home/purgeorsplurge/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 213
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 230
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 233
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'slug' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 234
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 235
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'count' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 236
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  Illegal string offset 'name' in /home/purgeorsplurge/public_html/wp-admin/includes/plugin-install.php on line 238
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 15:08:16 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/purgeorsplurge/public_html/wp-includes/functions.php on line 222
+[09-Mar-2016 15:24:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19200 bytes) in /home/purgeorsplurge/public_html/wp-includes/class-simplepie.php on line 474
+[09-Mar-2016 15:48:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1024 bytes) in /home/purgeorsplurge/public_html/wp-includes/wp-db.php on line 2344
+[09-Mar-2016 15:49:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1920 bytes) in /home/purgeorsplurge/public_html/wp-admin/includes/deprecated.php on line 294
+[10-Mar-2016 21:27:45 UTC] WordPress database error Duplicate key name 'attribute_name' for query ALTER TABLE wp_woocommerce_attribute_taxonomies ADD KEY attribute_name (attribute_name(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2016 21:27:45 UTC] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_woocommerce_termmeta ADD KEY meta_key (meta_key(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2016 21:27:45 UTC] WordPress database error Duplicate key name 'download_order_key_product' for query ALTER TABLE wp_woocommerce_downloadable_product_permissions ADD KEY download_order_key_product (product_id,order_id,order_key(191),download_id) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2016 21:27:45 UTC] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_woocommerce_order_itemmeta ADD KEY meta_key (meta_key(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2016 21:27:45 UTC] WordPress database error Duplicate key name 'tax_rate_country' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_country (tax_rate_country(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2016 21:27:45 UTC] WordPress database error Duplicate key name 'tax_rate_state' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_state (tax_rate_state(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2016 21:27:45 UTC] WordPress database error Duplicate key name 'tax_rate_class' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_class (tax_rate_class(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'attribute_name' for query ALTER TABLE wp_woocommerce_attribute_taxonomies ADD KEY attribute_name (attribute_name(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_woocommerce_termmeta ADD KEY meta_key (meta_key(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'download_order_key_product' for query ALTER TABLE wp_woocommerce_downloadable_product_permissions ADD KEY download_order_key_product (product_id,order_id,order_key(191),download_id) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_woocommerce_order_itemmeta ADD KEY meta_key (meta_key(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'tax_rate_country' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_country (tax_rate_country(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'tax_rate_state' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_state (tax_rate_state(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'tax_rate_class' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_class (tax_rate_class(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[19-Mar-2016 20:11:18 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[23-Apr-2016 00:16:25 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:16:50 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:16:50 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:28:38 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:28:59 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:29:00 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:32:30 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:32:52 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[23-Apr-2016 00:32:52 UTC] PHP Fatal error:  Cannot redeclare class Vc_Manager in /home/purgeorsplurge/public_html/wp-content/plugins/js_composer/js_composer.php on line 33
+[24-Apr-2016 22:01:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16000 bytes) in /home/purgeorsplurge/public_html/wp-includes/media.php on line 2751
+[24-Apr-2016 22:01:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16000 bytes) in /home/purgeorsplurge/public_html/wp-includes/media.php on line 2751
+[24-Apr-2016 22:01:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16000 bytes) in /home/purgeorsplurge/public_html/wp-includes/media.php on line 2751
+[24-Apr-2016 22:02:17 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16000 bytes) in /home/purgeorsplurge/public_html/wp-includes/media.php on line 2751
+[24-Apr-2016 22:03:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 6000 bytes) in /home/purgeorsplurge/public_html/wp-includes/media.php on line 2751
+[20-Jun-2016 18:36:44 UTC] WordPress database error Duplicate key name 'attribute_name' for query ALTER TABLE wp_woocommerce_attribute_taxonomies ADD KEY attribute_name (attribute_name(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[20-Jun-2016 18:36:44 UTC] WordPress database error Duplicate key name 'download_order_key_product' for query ALTER TABLE wp_woocommerce_downloadable_product_permissions ADD KEY download_order_key_product (product_id,order_id,order_key(191),download_id) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[20-Jun-2016 18:36:44 UTC] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_woocommerce_order_itemmeta ADD KEY meta_key (meta_key(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[20-Jun-2016 18:36:44 UTC] WordPress database error Duplicate key name 'tax_rate_country' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_country (tax_rate_country(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[20-Jun-2016 18:36:44 UTC] WordPress database error Duplicate key name 'tax_rate_state' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_state (tax_rate_state(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[20-Jun-2016 18:36:44 UTC] WordPress database error Duplicate key name 'tax_rate_class' for query ALTER TABLE wp_woocommerce_tax_rates ADD KEY tax_rate_class (tax_rate_class(191)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[20-Jun-2016 18:36:44 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta

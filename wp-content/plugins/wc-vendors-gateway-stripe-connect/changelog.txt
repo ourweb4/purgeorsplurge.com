@@ -1,0 +1,22 @@
+### 2015.09.21 - version 1.0.2
+
+ * Added: da_DK Danish Translation (Thanks Bjorn) #5
+
+ * Updated: Credit card icons on checkout page will now only show credit cards that your country accepts (Thanks Bjorn) #6
+
+
+
+### 2015.08.31 - version 1.0.1
+
+ 
+
+ * Now supports all 135 currencies that Stripe supports #4
+
+
+
+### 2015.07.06 - version 1.0
+
+
+
+ * Initial release
+

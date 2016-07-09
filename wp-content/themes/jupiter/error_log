@@ -1,0 +1,2 @@
+[01-May-2016 05:05:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/purgeorsplurge/public_html/wp-content/themes/jupiter/index.php on line 16
+[06-May-2016 00:32:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/purgeorsplurge/public_html/wp-content/themes/jupiter/index.php on line 16

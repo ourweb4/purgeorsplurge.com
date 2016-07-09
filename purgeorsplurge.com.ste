@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<site SitePrefVersionMajor="12" SitePrefVersionMinor="0">
+    <localinfo sitename="purgeorsplurge.com" ftporrdsserver="FALSE" mediaqueryfile="" refreshlocal="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://purgeorsplurge.com/" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="webserver"/>
+    <designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
+    <sitemap pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
+    <bcinfo siteid="0" sitename="" secureURL=""/>
+    <fileviewcolumns sharecolumns="FALSE">
+        <column name="Local%20Files" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="206" remotewidth="180"/>
+        <column name="Notes" align="center" show="FALSE" share="FALSE" builtin="TRUE" localwidth="36" remotewidth="36"/>
+        <column name="Size" align="right" show="TRUE" share="FALSE" builtin="TRUE" localwidth="40" remotewidth="-2"/>
+        <column name="Type" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="60" remotewidth="60"/>
+        <column name="Modified" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="102" remotewidth="102"/>
+        <column name="Checked%20Out%20By" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1"/>
+</fileviewcolumns>
+    <serverlist>
+        <server servermodel="" servertype="remoteAndTestingServer" weburl="http://purgeorsplurge.com/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="ftp" host="purgeorsplurge.com" remoteroot="" name="purgeorsplurge.com" maintainSyncInfo="TRUE" autoUpload="FALSE" usefirewall="FALSE" usepasv="TRUE" useSFTP="FALSE" useFTPS="FALSE" useImplicitFTPS="FALSE" encryptOnlyCommandChannel="FALSE" authenticationMode="TRUSTED_CERTIFICATE" useIPv6="FALSE" useftpoptimization="TRUE" usealternaterename="FALSE" pathNameCharacterSet="utf-8" testsvrbinaccesstype="none"/>
+</serverlist>
+    <cloaking enabled="TRUE" patterns="FALSE">
+        <cloakedfolder folder="dw_php_codehinting.config"/>
+        <cloakedpattern pattern=".fla"/>
+        <cloakedpattern pattern=".psd"/>
+</cloaking>
+    <contributorintegration enabled="FALSE"/>
+</site>
